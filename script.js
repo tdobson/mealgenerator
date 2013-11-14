@@ -7,6 +7,7 @@ var protein=[
 'cheese',
 'kidney beans',
 'chickpeas',
+'vege sausages',
 ];
 
 var carbs=[
